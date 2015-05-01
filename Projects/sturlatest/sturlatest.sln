@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sturlatest", "sturlatest\sturlatest.csproj", "{F165BD36-DD10-4845-AF0E-3525B122CED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sturlatest.Tests", "sturlatest.Tests\sturlatest.Tests.csproj", "{680A1046-CC1B-444A-AEB9-5B7668260F04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F165BD36-DD10-4845-AF0E-3525B122CED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F165BD36-DD10-4845-AF0E-3525B122CED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F165BD36-DD10-4845-AF0E-3525B122CED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F165BD36-DD10-4845-AF0E-3525B122CED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680A1046-CC1B-444A-AEB9-5B7668260F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680A1046-CC1B-444A-AEB9-5B7668260F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680A1046-CC1B-444A-AEB9-5B7668260F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680A1046-CC1B-444A-AEB9-5B7668260F04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
